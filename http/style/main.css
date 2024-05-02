@@ -1,0 +1,10 @@
+body{
+	--spectre-wallet-top-menu-top:10px;
+	--spectre-wallet-right-area-height:calc(100vh - 80px);
+}
+spectre-wallet-app{
+	flex:1;overflow:hidden;position:fixed;
+	top:0px;bottom:0px;height:100%;width:100%;left:0px;right:0px;box-sizing:border-box;
+	display:flex;flex-direction:column;
+}
+spectre-wallet{flex:1;height:100px}

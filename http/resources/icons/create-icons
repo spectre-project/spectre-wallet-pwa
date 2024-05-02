@@ -1,0 +1,25 @@
+convert -scale 144x144 icon.png android-icon-144x144.png
+convert -scale 192x192 icon.png android-icon-192x192.png
+convert -scale 36x36 icon.png android-icon-36x36.png
+convert -scale 48x48 icon.png android-icon-48x48.png
+convert -scale 72x72 icon.png android-icon-72x72.png
+convert -scale 96x96 icon.png android-icon-96x96.png
+convert -scale 114x114 icon.png apple-icon-114x114.png
+convert -scale 120x120 icon.png apple-icon-120x120.png
+convert -scale 144x144 icon.png apple-icon-144x144.png
+convert -scale 152x152 icon.png apple-icon-152x152.png
+convert -scale 180x180 icon.png apple-icon-180x180.png
+convert -scale 57x57 icon.png apple-icon-57x57.png
+convert -scale 60x60 icon.png apple-icon-60x60.png
+convert -scale 72x72 icon.png apple-icon-72x72.png
+convert -scale 76x76 icon.png apple-icon-76x76.png
+convert -scale 16x16 icon.png favicon-16x16.png
+convert -scale 32x32 icon.png favicon-32x32.png
+convert -scale 96x96 icon.png favicon-96x96.png
+convert -scale 16x16 icon.png favicon.ico
+convert -scale 144x144 icon.png ms-icon-144x144.png
+convert -scale 150x150 icon.png ms-icon-150x150.png
+convert -scale 310x310 icon.png ms-icon-310x310.png
+convert -scale 70x70 icon.png ms-icon-70x70.png
+cp icon.png apple-icon.png
+cp icon.png apple-icon-precomposed.png
