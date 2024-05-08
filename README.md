@@ -4,7 +4,6 @@
 
 ```
 git clone https://github.com/spectre-project/spectre-wallet-pwa
-git clone https://github.com/spectre-project/spectre-ux
 cd spectre-wallet-pwa
 npm install
 ```
